@@ -1,4 +1,4 @@
-# Hi, I'm **<span style="color:#6495ED">Vilius</span> Ivanovas** :wave:
+# Welcome :wave:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vilius-ivanovas-52674b212/">
@@ -6,8 +6,13 @@
   </a>
 <div>
 
-<br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viliusivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=ffffff)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusIvanovas&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+### About <span style="color:#6495ED">me</span>:
+
+- :raising_hand_man: Hi, I'm <span style="color:#6495ED">Vilius</span> Ivanovas
+- :school: Currently I'm studying in <span style="color:#6495ED">HANSENBERG</span>
+- :computer: I like <span style="color:#6495ED">programming</span>, both for school and fun
+- :shinto_shrine: I am also interested in learning more spoken languages like <span style="color:#6495ED">Japanese</span> and <span style="color:#6495ED">German</span>
+- :hourglass_flowing_sand: In the future I'd be interested in studying, either <span style="color:#6495ED">Computer Science</span> or <span style="color:#6495ED">Engineering</span>
 
 ### :hammer_and_wrench: **<span style="color:#6495ED">Languages</span>** and **Tools**:
 
@@ -24,3 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="Ubuntu" width="40"/>
 </div>
 
+### :seedling: My **<span style="color:#6495ED">stats</span>**:
+
+<br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viliusivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=ffffff)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusIvanovas&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br>
