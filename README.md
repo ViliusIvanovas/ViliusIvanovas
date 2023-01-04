@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="github" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="css" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/html5"  title="html5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/vscode"  title="vscode" alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="vscode" alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  title="vscode studio" alt="VSCode Studio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"  title="unity" alt="Unity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title="ubuntu" alt="Ubuntu" width="40" height="40"/>
