@@ -1,4 +1,4 @@
-# Hi, I'm **<span style="color:#6495ED">Vilius</span> Ivanovas** :wave:
+<h1> Hi, I'm **<span style="color:#6495ED">Vilius</span> Ivanovas** :wave: </h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vilius-ivanovas-52674b212/">
