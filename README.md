@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet core" alt="dot-net core" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" **alt="Git" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="GitHub" width="40"/>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)" title="css" alt="CSS3" width="40"/>
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="CSS3" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="HTML5" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="VSCode" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="vscode studio" alt="VSCode Studio" width="40"/>
