@@ -30,6 +30,5 @@
 </div>
 
 ### :seedling: My **<span style="color:#6495ED">stats</span>**:
-
-<br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viliusivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=ffffff)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusIvanovas&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+<br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viliusivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=ffffff)](https://github.com/ViliusIvanovas?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusIvanovas&layout=compact&theme=github_dark&hide_border=true&title_color=6495ED&langs_count=6)](https://github.com/ViliusIvanovas?tab=repositories) <br>
