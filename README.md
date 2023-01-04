@@ -1,9 +1,26 @@
+# Hi, I'm **<span style="color:#6495ED">Vilius</span> Ivanovas** :wave:
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/vilius-ivanovas-52674b212/">
+    <img src="https://img.shields.io/badge/LinkedIn-6495ED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vilius-Ivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=FF5733)](https://git.io/streak-stats)
+<br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viliusivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=ffffff)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusIvanovas&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br>
 
-I like programming, mostly for school, a bit for personal use. <br>
-I have some [cool projects](https://github.com/ViliusIvanovas/Bad-Apple-CSharp), check them out! I have a [GitHub Page](https://viliusivanovas.github.io/) (WIP). <br>
-I program in C#, HTML and CSS, am still new in all. Would like to learn Python, C and C++. <br>
+### :hammer_and_wrench: **<span style="color:#6495ED">Languages</span>** and **Tools**:
 
-### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="csharp" alt="CSharp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" title="dotnet core" alt="dot-net core" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="github" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="css" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/html5"  title="html5" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/vscode"  title="vscode" alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  title="vscode studio" alt="VSCode Studio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"  title="unity" alt="Unity" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title="ubuntu" alt="Ubuntu" width="40" height="40"/>
+</div>
+
