@@ -10,7 +10,7 @@
 
 - :raising_hand_man: Hi, I'm <span style="color:#6495ED">Vilius</span> Ivanovas
 - :school: Currently I'm studying in <span style="color:#6495ED">HANSENBERG</span>
-- :computer: I like <span style="color:#6495ED">programming</span>, both for school and fun
+- :computer: I like <span style="color:#6495ED">programming</span>, both in school and for fun
 - :shinto_shrine: I am also interested in learning more spoken languages like <span style="color:#6495ED">Japanese</span> and <span style="color:#6495ED">German</span>
 - :hourglass_flowing_sand: In the future I'd be interested in studying, either <span style="color:#6495ED">Computer Science</span> or <span style="color:#6495ED">Engineering</span>
 
@@ -27,7 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="vscode studio" alt="VSCode Studio" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="Unity" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="Ubuntu" width="40"/>
-</div>
+</div> 
+:denmark: :gb: :lithuania: (:de: :jp:)
 
 ### :seedling: My **<span style="color:#6495ED">stats</span>**:
 <br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viliusivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=ffffff)](https://github.com/ViliusIvanovas?tab=repositories)
