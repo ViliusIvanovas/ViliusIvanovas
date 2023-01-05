@@ -9,7 +9,7 @@
 ### About <span style="color:#6495ED">me</span>:
 
 - :raising_hand_man: Hi, I'm <span style="color:#6495ED">Vilius</span> Ivanovas
-- :school: Currently I'm studying in <span style="color:#6495ED">HANSENBERG</span>
+- :school: Currently I'm studying at <span style="color:#6495ED">HANSENBERG</span>
 - :computer: I like <span style="color:#6495ED">programming</span>, both in school and for fun
 - :shinto_shrine: I am also interested in learning more spoken languages like <span style="color:#6495ED">Japanese</span> and <span style="color:#6495ED">German</span>
 - :hourglass_flowing_sand: In the future I'd be interested in studying, either <span style="color:#6495ED">Computer Science</span> or <span style="color:#6495ED">Engineering</span>
