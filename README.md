@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40"/>
 </div> 
 
-# :denmark: :gb: :lithuania: (:de: :jp:)
+# :lithuania: :denmark: :gb: (:jp: :de:)
 
 ### :seedling: My **<span style="color:#6495ED">stats</span>**:
 <br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viliusivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=ffffff)](https://github.com/ViliusIvanovas?tab=repositories)
