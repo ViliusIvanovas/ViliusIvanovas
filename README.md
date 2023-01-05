@@ -11,7 +11,7 @@
 - :raising_hand_man: Hi, I'm <span style="color:#6495ED">Vilius</span> Ivanovas
 - :school: Currently I'm studying at <span style="color:#6495ED">HANSENBERG</span>
 - :computer: I like <span style="color:#6495ED">programming</span>, both in school and for fun
-- :shinto_shrine: I am also interested in learning more spoken languages like <span style="color:#6495ED">Japanese</span> and <span style="color:#6495ED">German</span>
+- :shinto_shrine: Currently I speak <span style="color:#6495ED">Lithuanian</span> :lithuania:, <span style="color:#6495ED">Danish</span> :denmark: and <span style="color:#6495ED">English</span> :gb:, but also plan to learn <span style="color:#6495ED">Japanese</span> :jp: and <span style="color:#6495ED">German</span> :de:
 - :hourglass_flowing_sand: In the future I'd be interested in studying, either <span style="color:#6495ED">Computer Science</span> or <span style="color:#6495ED">Engineering</span>
 
 ### :hammer_and_wrench: **<span style="color:#6495ED">Languages</span>** and **Tools**:
@@ -28,8 +28,6 @@
   (<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40"/>)
 </div> 
-
-# :lithuania: :denmark: :gb: (Plan to learn: :jp: :de:)
 
 ### :seedling: My **<span style="color:#6495ED">stats</span>**:
 <br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viliusivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=ffffff)](https://github.com/ViliusIvanovas?tab=repositories)
