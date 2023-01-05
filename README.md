@@ -17,19 +17,19 @@
 ### :hammer_and_wrench: **<span style="color:#6495ED">Languages</span>** and **Tools**:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="CSharp" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet core" alt="dot-net core" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSharp" alt="CSharp" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet core" alt="dotnet core" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" **alt="Git" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="GitHub" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="CSS3" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="HTML5" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="VSCode" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="vscode studio" alt="VSCode Studio" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="Unity" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="Ubuntu" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VSCode Studio" alt="VSCode Studio" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40"/>
 </div> 
 
-## :denmark: :gb: :lithuania: (:de: :jp:)
+# :denmark: :gb: :lithuania: (:de: :jp:)
 
 ### :seedling: My **<span style="color:#6495ED">stats</span>**:
 <br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viliusivanovas&theme=dark&hide_border=true&stroke=6495ED&ring=6495ED&sideLabels=6495ED&currStreakLabel=6495ED&fire=ffffff)](https://github.com/ViliusIvanovas?tab=repositories)
