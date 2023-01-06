@@ -18,6 +18,9 @@
 - :hourglass_flowing_sand: In the future I'd be interested in studying, either <span style="color:#6495ED">Computer Science</span> or <span style="color:#6495ED">Engineering</span>
 - :white_check_mark: My color palette: **<span style="color:#6495ED">#6495ED</span>**, <span style="color:#70E4EF">#70E4EF</span>, <span style="color:#272727">#272727</span>, <span style="color:#d6a2ad">#d6a2ad</span> and <span style="color:#ffd8be">#ffd8be</span>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
