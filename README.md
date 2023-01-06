@@ -12,18 +12,9 @@
 - :school: Currently I'm studying at <span style="color:#6495ED">HANSENBERG</span>
 - :computer: I like <span style="color:#6495ED">programming</span>, both in school and for fun
 - :shinto_shrine: Currently I speak <span style="color:#6495ED">Lithuanian</span> :lithuania:, <span style="color:#6495ED">Danish</span> :denmark: and <span style="color:#6495ED">English</span> :gb:, but also plan to learn <span style="color:#6495ED">Japanese</span> :jp: and <span style="color:#6495ED">German</span> :de:
-<<<<<<< Updated upstream
 - :hourglass_flowing_sand: In the future I'd be interested in studying either <span style="color:#6495ED">Computer Science</span> or <span style="color:#6495ED">Engineering</span>
-=======
 - :hourglass_flowing_sand: In the future I'd be interested in studying, either <span style="color:#6495ED">Computer Science</span> or <span style="color:#6495ED">Engineering</span>
 - :white_check_mark: My color palette: **<span style="color:#6495ED">#6495ED</span>**, <span style="color:#70E4EF">#70E4EF</span>, <span style="color:#272727">#272727</span>, <span style="color:#d6a2ad">#d6a2ad</span> and <span style="color:#ffd8be">#ffd8be</span>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 
 ### :hammer_and_wrench: **<span style="color:#6495ED">Languages</span>** and **Tools**:
 
