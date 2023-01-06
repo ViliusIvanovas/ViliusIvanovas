@@ -13,7 +13,7 @@
 - :computer: I like <span style="color:#6495ED">programming</span>, both in school and for fun
 - :shinto_shrine: Currently I speak <span style="color:#6495ED">Lithuanian</span> :lithuania:, <span style="color:#6495ED">Danish</span> :denmark: and <span style="color:#6495ED">English</span> :gb:, but also plan to learn <span style="color:#6495ED">Japanese</span> :jp: and <span style="color:#6495ED">German</span> :de:
 - :hourglass_flowing_sand: In the future I'd be interested in studying either <span style="color:#6495ED">Computer Science</span> or <span style="color:#6495ED">Engineering</span>
-- :white_check_mark: My color palette: **<span style="color:#6495ED">#6495ED</span>**, <span style="color:#70E4EF">#70E4EF</span>, <span style="color:#272727">#272727</span>, <span style="color:#d6a2ad">#d6a2ad</span> and <span style="color:#ffd8be">#ffd8be</span>
+- :white_check_mark: My color palette: **<span style="color:#6495ED">#6495ED</span>**, <span style="color:#70E4EF">#70E4EF</span>, <span style="color:#272727">#272727</span>, <span style="color:#F2E2BA">#F2E2BA</span> and <span style="color:#f05d5e">#f05d5e</span>
 
 ### :hammer_and_wrench: **<span style="color:#6495ED">Languages</span>** and **Tools**:
 
