@@ -1,11 +1,5 @@
 # Welcome :wave:
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/vilius-ivanovas-52674b212/">
-    <img src="https://img.shields.io/badge/LinkedIn-6495ED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<div>
-
 ### About <span style="color:#6495ED">me</span>:
 
 - :raising_hand_man: Hi, I'm <span style="color:#6495ED">Vilius</span> Ivanovas
