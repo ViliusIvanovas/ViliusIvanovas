@@ -6,7 +6,7 @@
 - :school: Currently I'm studying at <span style="color:#6495ED">HANSENBERG</span>
 - :computer: I like <span style="color:#6495ED">programming</span>, both in school and for fun
 - :shinto_shrine: Currently I speak <span style="color:#6495ED">Lithuanian</span> :lithuania:, <span style="color:#6495ED">Danish</span> :denmark: and <span style="color:#6495ED">English</span> :gb:, but also plan to learn <span style="color:#6495ED">Japanese</span> :jp: and <span style="color:#6495ED">German</span> :de:
-- :hourglass_flowing_sand: In the future I'd be interested in studying either <span style="color:#6495ED">Computer Science</span> or <span style="color:#6495ED">Engineering</span>
+- :hourglass_flowing_sand: For now all I know is that I want to do something creative in the future. Especially music production, playing and teaching.
 
 ### :hammer_and_wrench: **<span style="color:#6495ED">Languages</span>** and **Tools**:
 
